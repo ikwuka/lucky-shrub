@@ -8,4 +8,27 @@ body {
     box-sizing: inherit;
     margin: 0;
     padding: 0;
+    background-color: #EDEFEE;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
