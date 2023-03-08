@@ -9,18 +9,24 @@
     --Roboto: 'Roboto', Helvetica, Verdana, Arial, sans-serif;
 }
 
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 16px * 62.5px = 10px = 1rem */
+}
+
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
+    box-sizing: inherit;
 }
 
 body {
-    box-sizing: inherit;
     margin: 0;
     padding: 0;
     background-color: #EDEFEE;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: var(--Josefin);
+    font-size: 1.6rem;
+    height: 100vh;
     margin-bottom: 3rem;
     margin-left: 5%;
     margin-right: 5%;
