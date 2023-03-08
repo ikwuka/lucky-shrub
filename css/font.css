@@ -1,0 +1,31 @@
+/* GOOGLE FONTS */
+
+/* Dosis font */
+@font-face {
+  font-family: Dosis;
+  src: url(../fonts/dosis/static/Dosis-Regular.ttf);
+}
+
+/* Josefin font */
+@font-face {
+  font-family: Josefin;
+  src: url(../fonts/josefin-sans/static/JosefinSans-Regular.ttf);
+}
+
+/* Lexend font */
+@font-face {
+  font-family: Lexend;
+  src: url(../fonts/lexend-deca/static/LexendDeca-Regular.ttf);
+}
+
+/* Livvic font */
+@font-face {
+  font-family: Livvic;
+  src: url(../fonts/livvic/Livvic-Regular.ttf);
+}
+
+/* Roboto font */
+@font-face {
+  font-family: Roboto;
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
