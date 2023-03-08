@@ -1,3 +1,14 @@
+@import url(./font.css);
+
+/* Fonts variable creation */
+:root {
+    /* Google fonts */
+    --Josefin: 'Josefin', Helvetica, Verdana, Arial, sans-serif;
+    --Lexend: 'Lexend', Helvetica, Verdana, Arial, sans-serif;
+    --Livvic: 'Livvic', Helvetica, Verdana, Arial, sans-serif;
+    --Roboto: 'Roboto', Helvetica, Verdana, Arial, sans-serif;
+}
+
 *,
 *::before,
 *::after {
